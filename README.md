@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+<h2><b>Ashutosh Kumar Gautam</b></2>
 ### 🔭 I’m currently working on --> Hidden Ai
 ### 🌱 I’m currently learning --> Hacking, Ai, Robotics
 ### 👯 I’m looking to collaborate on --> Hidden Ai 

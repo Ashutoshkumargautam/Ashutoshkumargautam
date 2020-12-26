@@ -1,4 +1,4 @@
-<h1 align="center">Ashutosh Kumar Gautam</h1> 
+<h1 align="center">👨‍💻 Ashutosh Kumar Gautam </h1> 
 
 ### 🔭 I’m currently working on --> Hidden Ai
 ### 🌱 I’m currently learning --> Hacking, Ai, Robotics

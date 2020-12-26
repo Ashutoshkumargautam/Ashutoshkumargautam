@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👨‍💻  I'm Ashutosh Kumar Gautam</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkumargautam&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkumargautam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshkumargautam" alt="ashutoshkumargautam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ashutoshkumargautam" target="blank"><img src="https://img.shields.io/twitter/follow/ashutoshkumargautam?logo=twitter&style=for-the-badge" alt="ashutoshkumargautam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashutos61427385" target="blank"><img src="https://img.shields.io/twitter/follow/ashutos61427385?logo=twitter&style=for-the-badge" alt="ashutos61427385" /></a> </p>
 
 - 🔭 I’m currently working on **Hidden Ai**
 
@@ -28,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/ashutoshkumargautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/ashutoshkumargautam" height="30" width="40" /></a>
-<a href="https://twitter.com/ashutoshkumargautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashutoshkumargautam" height="30" width="40" /></a>
+<a href="https://twitter.com/ashutos61427385" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashutos61427385" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ashutoshkumargautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ashutoshkumargautam" height="30" width="40" /></a>
 <a href="https://fb.com/ashutoshkumargautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashutoshkumargautam" height="30" width="40" /></a>
 <a href="https://instagram.com/ashutoshkumargautam__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ashutoshkumargautam__" height="30" width="40" /></a>

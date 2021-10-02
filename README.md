@@ -45,3 +45,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshkumargautam&show_icons=true&locale=en&layout=compact" alt="ashutoshkumargautam" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshkumargautam&show_icons=true&locale=en" alt="ashutoshkumargautam" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkumargautam&" alt="ashutoshkumargautam" /></p>
+
+
+
+
+
+
+
+
+
+
+<a href="https://samy.pl"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="100%" height="100%"></a>

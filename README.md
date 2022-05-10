@@ -8,5 +8,4 @@
 
 - 📫 How to reach me **ashutoshkumargautam@protonmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1clb1vDtPDy8qiTpXrNypGEhc9KJ8qA40/view?usp=sharing](https://drive.google.com/file/d/1clb1vDtPDy8qiTpXrNypGEhc9KJ8qA40/view?usp=sharing)
 
